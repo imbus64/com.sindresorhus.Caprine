@@ -79,8 +79,6 @@ modules:
           - zypak-wrapper.sh /app/main/caprine "$@"
       - type: file
         path: com.sindresorhus.Caprine.desktop
-        sha256: 3209123c01a934c7a0bc4e550b81e22c9ff276c32a766e96abe22e5cd00d04a9
       - type: file
         path: com.sindresorhus.Caprine.metainfo.xml
-        sha256: e1ee423c503ff33f916eed0d31ae8844cb3c1c56344afa8729698bd502b54a21
       - generated-sources.json
