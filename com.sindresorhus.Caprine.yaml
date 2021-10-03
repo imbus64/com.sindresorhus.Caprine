@@ -76,7 +76,10 @@ modules:
       - type: script
         dest-filename: caprine.sh
         commands:
-          - zypak-wrapper.sh /app/main/caprine "$@"
+          - set -o errexit
+          - TMPDIR="${XDG_RUNTIME_DIR}/app/${FLATPAK_ID}"
+          - export TMPDIR
+          - exec zypak-wrapper.sh /app/main/caprine "$@"
       - type: file
         path: com.sindresorhus.Caprine.desktop
       - type: file
