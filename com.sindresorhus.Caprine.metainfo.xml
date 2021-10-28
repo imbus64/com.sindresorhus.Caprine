@@ -39,6 +39,13 @@
     </screenshot>
   </screenshots>
   <releases>
+		<release date="2021-10-28" version="2.55.0">
+			<description>
+				<ul>
+					<li>Bug fixes</li>
+				</ul>
+			</description>
+		</release>
     <release date="2021-08-13" version="2.54.1">
       <description>
         <ul>
