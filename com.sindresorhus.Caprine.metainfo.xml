@@ -39,6 +39,15 @@
     </screenshot>
   </screenshots>
   <releases>
+		<release date="2021-12-02" version="2.55.1">
+			<description>
+				<ul>
+					<li>Fix dark mode</li>
+					<li>Fix names in private mode</li>
+					<li>Fix spell check languages</li>
+				</ul>
+			</description>
+		</release>
 		<release date="2021-10-28" version="2.55.0">
 			<description>
 				<ul>
