@@ -39,6 +39,16 @@
     </screenshot>
   </screenshots>
   <releases>
+		<release date="2022-05-16" version="2.55.5">
+			<description>
+				<ul>
+					<li>Fix hidden sidebar and narrow sidebar</li>
+					<li>Fix dark button for New Room</li>
+					<li>Update settings menu and close button elements</li>
+					<li>Fix workaround for notifications</li>
+				</ul>
+			</description>
+		</release>
 		<release date="2022-03-20" version="2.55.3"/>
 		<release date="2021-12-09" version="2.55.2"/>
 		<release date="2021-12-02" version="2.55.1">
