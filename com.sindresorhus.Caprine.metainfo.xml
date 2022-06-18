@@ -39,6 +39,21 @@
     </screenshot>
   </screenshots>
   <releases>
+		<release date="2022-06-16" version="2.55.7">
+			<description>
+				<ul>
+					<li>Update links from http to https</li>
+					<li>Dark mode fixes</li>
+				</ul>
+			</description>
+		</release>
+		<release date="2022-06-12" version="2.55.6">
+			<description>
+				<ul>
+					<li>Apply dark mode coloring to preference icons</li>
+				</ul>
+			</description>
+		</release>
 		<release date="2022-05-16" version="2.55.5">
 			<description>
 				<ul>
