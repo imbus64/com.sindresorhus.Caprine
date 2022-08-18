@@ -39,6 +39,34 @@
     </screenshot>
   </screenshots>
   <releases>
+		<release date="2022-08-17" version="2.56.0">
+			<description>
+				<ul>
+					<li>Update Electron to 20 by @1nikolas, @nehalvpatel and @lefterisgar</li>
+					<li>Update to the new Messenger icon (2020)</li>
+					<li>Improved scrollbar theme by @mquevill in #1638</li>
+					<li>Add dark mode to cookies notification</li>
+					<li>Add maintainers in about dialog by @lefterisgar in #1874</li>
+					<li>Add option to disable automatic updates</li>
+					<li>Enable auto-updates on Linux</li>
+					<li>Display a notification when a new update is available</li>
+					<li>Fix private mode</li>
+					<li>Fix adaptive, hidden and narrow sidebar</li>
+					<li>Fix "Show Message Buttons" option</li>
+					<li>Fix login button color in dark mode</li>
+					<li>Fix cookies notification accept button being hidden on smaller windows</li>
+					<li>Fix Caprine not starting on some Linux distros</li>
+					<li>Fix ci build step by @dusansimic in #1872</li>
+					<li>Fix search icon dark mode color in right sidebar by @dusansimic in #1849</li>
+					<li>Fix shortcuts by @dusansimic in #1851</li>
+					<li>Hide all non-working features</li>
+					<li>Hide new Messenger app banner by @1nikolas in lefterisgar#2</li>
+					<li>Select log out as last menu item by @mquevill in #1853</li>
+					<li>Remove "Allow All Cookies" button to increase privacy</li>
+					<li>Remove all CSS related to old design</li>
+				</ul>
+			</description>
+		</release>
 		<release date="2022-06-16" version="2.55.7">
 			<description>
 				<ul>
