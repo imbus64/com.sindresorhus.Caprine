@@ -64,8 +64,8 @@ modules:
     subdir: main
     sources:
       - type: archive
-        url: https://github.com/sindresorhus/caprine/archive/v2.56.0.tar.gz
-        sha256: 804e525e10b4b6ce6d3a6666c5fa4f3099284bab3a31d32d61be04252f64d609
+        url: https://github.com/sindresorhus/caprine/archive/v2.56.1.tar.gz
+        sha256: 5a9cd856232a3d1f2b966117d52ade0f8c4a5356679383666423b2d82c83a110
         dest: main
       - type: script
         dest-filename: caprine.sh

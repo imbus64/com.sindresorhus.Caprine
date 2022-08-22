@@ -39,6 +39,24 @@
     </screenshot>
   </screenshots>
   <releases>
+		<release date="2022-08-22" version="2.56.1">
+			<description>
+				<h1>What's New</h1>
+				<ul>
+					<li>Create new room</li>
+				</ul>
+				<h1>What's Changed</h1>
+				<ul>
+					<li>Dark mode fixes (top gap, icons, radio buttons' accent color)</li>
+					<li>Fix insert buttons (GIF, Sticker, Emoji, Files)</li>
+					<li>Fix "Find Conversation" feature</li>
+					<li>Fix "Show Message Buttons" option</li>
+					<li>Fix private mode</li>
+					<li>Remove code related to old design</li>
+					<li>Various improvements to readme</li>
+				</ul>
+			</description>
+		</release>
 		<release date="2022-08-17" version="2.56.0">
 			<description>
 				<ul>
