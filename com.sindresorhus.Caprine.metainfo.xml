@@ -41,11 +41,11 @@
   <releases>
 		<release date="2022-08-22" version="2.56.1">
 			<description>
-				<h1>What's New</h1>
+				<p>What's New</p>
 				<ul>
 					<li>Create new room</li>
 				</ul>
-				<h1>What's Changed</h1>
+				<p>What's Changed</p>
 				<ul>
 					<li>Dark mode fixes (top gap, icons, radio buttons' accent color)</li>
 					<li>Fix insert buttons (GIF, Sticker, Emoji, Files)</li>
