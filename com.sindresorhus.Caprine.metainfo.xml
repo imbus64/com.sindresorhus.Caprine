@@ -39,6 +39,27 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.57.0" date="2022-11-16">
+      <description>
+        <p>What's Changed</p>
+        <ul>
+          <li>Set window title to "Caprine"</li>
+          <li>Completely remove old design code</li>
+          <li>Remove new "Install Messenger app" banner</li>
+          <li>Fix custom css default file</li>
+          <li>Fix search close button color in dark mode</li>
+          <li>Fix attachment and receiver pill background in dark mode</li>
+          <li>Fix "Join room" background button on dark theme</li>
+          <li>Fix create room icon color in dark mode</li>
+          <li>Fix dark mode icons</li>
+          <li>Fix new room button shortcut</li>
+          <li>Fix insert buttons (GIF, Sticker, Emoji, Files) shortcuts</li>
+          <li>Fix radio buttons &amp; right sidebar search icon color in dark mode</li>
+          <li>Fix new design user menu</li>
+          <li>Fix voice message duration text color</li>
+        </ul>
+      </description>
+    </release>
 		<release date="2022-08-22" version="2.56.1">
 			<description>
 				<p>What's New</p>
