@@ -39,6 +39,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.58.0" date="2023-07-26">
+      <description>
+        <p>What's Fixed</p>
+        <ul>
+          <li>Fixed broken settings (including dark mode)</li>
+          <li>Fixed icon size (removed padding)</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.57.4" date="2023-05-06">
       <description>
         <p>What's Changed</p>
