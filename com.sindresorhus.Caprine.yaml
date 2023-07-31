@@ -1,14 +1,14 @@
 app-id: com.sindresorhus.Caprine
 branch: stable
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '22.08'
 sdk: org.freedesktop.Sdk
 
 base: org.electronjs.Electron2.BaseApp
-base-version: '21.08'
+base-version: '22.08'
 
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.node16
+  - org.freedesktop.Sdk.Extension.node18
 
 separate-locales: false
 command: caprine
@@ -34,18 +34,18 @@ finish-args:
 
 # Enable node extension by adding it to path
 build-options:
-  append-path: /usr/lib/sdk/node16/bin
+  append-path: /usr/lib/sdk/node18/bin
 
 modules:
   # Build and install caprine
   - name: caprine
     buildsystem: simple
     build-options:
-      append-path: /usr/lib/sdk/node16/bin
+      append-path: /usr/lib/sdk/node18/bin
       env:
         XDG_CACHE_HOME: /run/build/caprine/flatpak-node/cache
         npm_config_cache: /run/build/caprine/flatpak-node/npm-cache
-        npm_config_nodedir: /usr/lib/sdk/node16
+        npm_config_nodedir: /usr/lib/sdk/node18
         npm_config_offline: 'true'
     build-commands:
       - npm install --offline
