@@ -39,6 +39,18 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.58.2" date="2023-09-24">
+      <description>
+        <p>What's Fixed</p>
+        <ul>
+          <li>Hide "Messenger for Windows" banner</li>
+          <li>Fix some dark mode bugs</li>
+	  <li>Add select options for new sidebar</li>
+	  <li>Fix some shortcut bugs</li>
+	  <li>Fix tray icon</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.58.1" date="2023-09-07">
       <description>
         <p>What's Fixed</p>
