@@ -39,6 +39,14 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.58.3" date="2023-09-25">
+      <description>
+        <p>What's Fixed</p>
+        <ul>
+          <li>Fixed dark theme</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.58.2" date="2023-09-24">
       <description>
         <p>What's Fixed</p>
