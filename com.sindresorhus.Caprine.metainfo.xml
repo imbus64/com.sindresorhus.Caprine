@@ -39,6 +39,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.59.0" date="2023-09-26">
+      <description>
+        <p>What's Fixed</p>
+        <ul>
+          <li>Fixed notifications</li>
+          <li>Fixed freezing on receiving messages</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.58.3" date="2023-09-25">
       <description>
         <p>What's Fixed</p>
