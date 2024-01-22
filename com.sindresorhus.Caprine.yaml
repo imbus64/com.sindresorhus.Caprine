@@ -29,8 +29,6 @@ finish-args:
   # Required for notifications in various desktop environments
   - --talk-name=org.freedesktop.Notifications
   - --talk-name=org.kde.StatusNotifierWatcher
-  # Required for advanced input methods e.g. writing CJK languages
-  - --talk-name=org.freedesktop.portal.Fcitx
 
 # Enable node extension by adding it to path
 build-options:
