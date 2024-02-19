@@ -39,6 +39,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.59.2" date="2024-02-18">
+      <description>
+        <p>What's Fixed</p>
+        <ul>
+          <li>Fixed hidden modal windows bug</li>
+          <li>Hide Messenger for Windows banner</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.59.1" date="2023-10-11">
       <description>
         <p>What's Fixed</p>
