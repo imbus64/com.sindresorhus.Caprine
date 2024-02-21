@@ -39,6 +39,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.59.3" date="2024-02-20">
+      <description>
+        <p>What's Fixed</p>
+        <ul>
+          <li>Fixed blank window</li>
+          <li>Fixed tray icon</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.59.2" date="2024-02-18">
       <description>
         <p>What's Fixed</p>
