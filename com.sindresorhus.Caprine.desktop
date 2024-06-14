@@ -2,7 +2,7 @@
 Type=Application
 Name=Caprine
 GenericName=IM Client
-Comment=Unofficial Facebook Messenger app
+Comment=Elegant Facebook Messenger desktop app
 Icon=com.sindresorhus.Caprine
 TryExec=caprine
 Exec=caprine %U
