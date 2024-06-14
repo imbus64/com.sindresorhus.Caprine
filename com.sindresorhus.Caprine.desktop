@@ -8,5 +8,6 @@ TryExec=caprine
 Exec=caprine %U
 StartupWMClass=caprine
 Terminal=false
+Keywords=Messenger;Facebook;Chat;
 Categories=GTK;InstantMessaging;Network;
 StartupNotify=true
